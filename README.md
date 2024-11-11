@@ -15,7 +15,7 @@ Programação Web (CGI) 1 e 2 - Atividade de FPS, este é um guia detalhado com 
 
    ```bash
    git clone hhttps://github.com/GabrielBReis/Programa-o-Web-CGI-.git
-   cd nome-do-repositorio
+   cd Programa-o-Web-CGI-
    ```
 
 2. **Instale o Apache**
